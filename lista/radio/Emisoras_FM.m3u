@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="CO" tvg-language="Spanish" group-title="Emisoras FM" tvg-group="Cultural" tvg-name="Cámara FM" tvg-logo="https://www.camarafm.com/Portals/0/logo-camara-fm.png", Cámara FM 95.9MHz
+https://online.camarafm.com.co/stream
+#EXTINF:-1 tvg-country="CO" tvg-language="Spanish" group-title="Emisoras FM" tvg-group="Cultural" tvg-name="Radio Bolivariana" tvg-logo="https://www.radiobolivarianavirtual.com/medellin-colombia/images/bg_header.jpg", Radio Bolivariana 92.4MHz
+https://streaming.codigoe-marketing.co:8630/test.mp3
+#EXTINF:-1 tvg-country="CO" tvg-language="Spanish" group-title="Emisoras FM" tvg-group="Cultural" tvg-name="Emisora UdeA" tvg-logo="https://www.udea.edu.co/wps/wcm/connect/udea/79093100-a915-4dd3-ac5b-08e37adc7c66/Emisora+UdeA_Logo-Transparente2.png", Emisora Cultural Universidad de Antioquia FM 101.9MHz
+#EXTVLCOPT:http-referrer=https://www.udea.edu.co
+#EXTVLCOPT:http-user-agent='Mozilla/5.0'
+https://liveingesta118.cdnmedia.tv/uantioquialive/rtmp01/chunklist.m3u8
+#EXTINF:-1 tvg-country="CO" tvg-language="Spanish" group-title="Emisoras FM" tvg-group="Cultural" tvg-name="Sinigual Estereo", Sinigual Estereo FM 93.3MHz
+https://play8.tikast.com/proxy/sinigual?mp=/stream
+#EXTINF:-1 tvg-country="CO" tvg-language="Spanish" group-title="Emisoras FM" tvg-group="Romántica" tvg-name="La voz de Colombia" tvg-logo="https://www.besame.fm/wp-content/uploads/2024/05/logo-besame.png", La voz de Colombia - Bésame 94.9MHz
+https://27403.live.streamtheworld.com/BESAME_MEDELLINAAC.aac
